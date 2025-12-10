@@ -175,3 +175,13 @@ In folder "MRCGExtractor/call_relationship_graph_example", we give an example fo
 The test samples of datasets, CoderEval and DevEval, after cleaning, has shown in "datasets".
 ### Prompts and Results
 We will open-source the prompts and results.
+
+# Cite
+
+@misc{MRCGExtractor,
+  author = {Siyu Nan, et al.},
+  title = {What to Retrieve? Investigating Effective Call Information in Repository-level Code Generation.},
+  howpublished = {\url{https://github.com/nnRoy/MRCGExtractor/}},
+  year = {2025},
+  note = {[Online; accessed 15 May 2025]}
+}

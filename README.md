@@ -179,7 +179,7 @@ We will open-source the prompts and results.
 # Cite
 
 @misc{MRCGExtractor,
-  author = {Siyu Nan, et al.},
+  author = {Nan, Siyu and Wang, Jian and Luo, Yaling and Wang, Zhihao and Zhang, Neng and Ma, Yutao and Li, Bing},
   title = {What to Retrieve? Investigating Effective Call Information in Repository-level Code Generation.},
   howpublished = {\url{https://github.com/nnRoy/MRCGExtractor/}},
   year = {2025},

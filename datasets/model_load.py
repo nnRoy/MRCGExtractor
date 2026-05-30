@@ -11,7 +11,7 @@ from accelerate import infer_auto_device_map, dispatch_model
 import os
 import config as config
 
-
+torch.manual_seed(42)
 class GPTClient:
     def __init__(self, model):
         self.client = OpenAI(api_key=config.GPT_API_KEY)
